@@ -1,2 +1,2 @@
-# telegram-lottery
-Bot for lottery
+# cite giaveys
+Cite for giaveys
